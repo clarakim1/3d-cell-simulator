@@ -38,3 +38,18 @@ Organelle positions in the web app are random on each load; the CAD models use o
 
 ## License
 MIT
+
+The MIT License is one of the most popular open-source software licenses. It allows people to freely use, copy, modify, and distribute software.
+
+"You are free to use, modify, and share this project's source code, even for commercial purposes, as long as you keep the original copyright notice and license text."
+What are you allowed to do?
+- Use: Use the software for personal, educational, or commercial purposes.
+- Copy: Copy and reuse the source code.
+- Modify: Change the code or add new features.
+- Distribute: Share the original or modified software.
+- Commercial Use: Use the software in commercial products or services.
+
+What are the requirements?
+1. Keep the original copyright notice.
+2. Include the full MIT License text when redistributing the software.
+3. Preserve the license and copyright information in copies or substantial portions of the software.
